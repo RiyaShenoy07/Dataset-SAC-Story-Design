@@ -4,7 +4,7 @@ This repository contains a dataset of **10,000 e-commerce orders**, created for 
 
 ## 📂 Dataset Details
 
-**File:** `ecommerce_orders.xlsx`  
+**File:** `larger_sales_dataset.csv`  
 **Records:** 10,000  
 **Purpose:** Educational use for SAP SAC tutorials 
 **Source:** Kaggle
